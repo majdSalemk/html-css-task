@@ -1,0 +1,38 @@
+
+ 
+
+/* * {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+} */
+.contaner {
+    background-color:palegoldenrod ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 200px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h5 {
+    color: gray;
+    align-items: center;
+}
+img {
+    align-items: center;
+}
+table {
+    background-image: url(./WhatsApp\ Image\ 2023-06-22\ at\ 21.55.01.jpg);width: 100%;
+}
+button { 
+    color: white;
+   background-color: palevioletred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  
+  
+}
